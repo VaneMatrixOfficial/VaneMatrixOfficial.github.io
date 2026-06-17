@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://VaneMatrixOfficial.github.io/sitemap.xml
